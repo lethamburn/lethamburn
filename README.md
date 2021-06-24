@@ -20,8 +20,6 @@ SKILLS:
 <hr>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
 ⭐️ From [saviomartin](https://github.com/saviomartin)
 
 
