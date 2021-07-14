@@ -1,11 +1,11 @@
-<center>
-<img src="https://i.imgur.com/9j4kV2g.gif" alt="avatar" width="800"/>
+<div align="center">
+<img src="https://i.imgur.com/9j4kV2g.gif" alt="avatar" width="600"/>
 
 - ⚡ Hi, I'm **Antonio**.
 - 🌱 I’m currently learning **Full Stack Web Development**.
 - 📫 How to reach me: **antoniorosalesmartinez90@gmail.com**
 - 😄 I’m interested in Sci-fi, videogames, 3D print and death metal.
-  </center>
+  </div>
 <hr>
 SKILLS:
 <br>
