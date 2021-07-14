@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/9j4kV2g.gif" alt="avatar" width="200"/>
+<img src="https://i.imgur.com/9j4kV2g.gif" alt="avatar" width="400"/>
 
 - ⚡ Hi, I'm **Antonio**.
 - 🌱 I’m currently learning **Full Stack Web Development**.
