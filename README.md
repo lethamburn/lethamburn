@@ -1,4 +1,4 @@
-![](https://i.imgur.com/HJl4MXF.png)
+![width=200px](https://i.imgur.com/HJl4MXF.png)
 
 - ⚡ Hi, I'm Antonio.
 - 🌱 I’m currently learning Full Stack Web Development.
