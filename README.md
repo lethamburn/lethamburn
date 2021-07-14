@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/HJl4MXF.png" alt="avatar" width="150"/>
 
-- ⚡ Hi, I'm Antonio.
+- ⚡ Hi, I'm **Antonio**.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 📫 How to reach me: antoniorosalesmartinez90@gmail.com
 - 😄 I’m interested in Sci-fi, videogames, 3D print and death metal.
