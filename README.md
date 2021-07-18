@@ -15,6 +15,9 @@
 📄 Know about my experiences [https://lethamburn.github.io/react_my-cv/](https://lethamburn.github.io/react_my-cv/)
 
  </div>
+ 
+ <div align="center"><img width="200px" src="https://i.imgur.com/fIg3VAZ.gif" /></div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/antoniorosalesmartinez90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/antoniorosalesmartinez90" height="30" width="40" /></a>
