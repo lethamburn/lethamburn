@@ -6,7 +6,7 @@
 <br />
 <div align="center">
  
-🌱 I’m currently learning **Full Stack development** at Upgrade_Hub
+🌱 I’m a Junior **Full Stack Dev** 
 
 👨‍💻 All of my projects are available at [https://lethamburn.github.io/react_portfolio/](https://lethamburn.github.io/react_portfolio/)
 
