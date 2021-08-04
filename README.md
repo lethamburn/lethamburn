@@ -6,7 +6,7 @@
 <br />
 <div align="center">
  
-🌱 I’m a Junior **Full Stack Dev** 
+🌱 I’m a Junior **Full Stack Developer** 
 
 👨‍💻 All of my projects are available at [https://lethamburn.github.io/react_portfolio/](https://lethamburn.github.io/react_portfolio/)
 
