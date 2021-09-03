@@ -1,7 +1,7 @@
 <div align="center"><img width="250px" src="https://i.imgur.com/99BZ8IU.gif" /></div>
 
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">I'm passionate about science fiction, comics, video games, death metal and 3D printing.</h3>
+<h3 align="center">I love science fiction, comics, video games, death metal and 3D printing.</h3>
 
 <br />
 <div align="center">
