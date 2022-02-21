@@ -8,9 +8,7 @@
  
 💻 I’m a Junior **Full Stack Developer** 
 
-🤖 All of my projects are available at [https://lethamburn.github.io/react_portfolio/](https://lethamburn.github.io/react_portfolio/)
- 
- 📓 Know about my experiences [https://lethamburn.github.io/react_my-cv/](https://lethamburn.github.io/react_my-cv/)
+🤖 All of my projects are available at [https://lethamburn.vercel.app/](https://lethamburn.vercel.app/)
 
 📫 How to reach me: antoniorosalesmartinez90@gmail.com
 
