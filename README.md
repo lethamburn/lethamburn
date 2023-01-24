@@ -23,6 +23,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lethamburn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=lethamburn&icon=8&color=12)](https://visitcount.itsvg.in)
 
