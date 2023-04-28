@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer & Code Teacher
 --------------
 
-I'm currently working on NEOLAND & RockTheCode as Web Teacher
+I'm currently working on RockTheCode as Web Teacher
 
 * 🌍  I'm based in Madrid, Spain
 * 🖥️  See my portfolio at [https://lethamburn.vercel.app](http://lethamburn.vercel.app)
