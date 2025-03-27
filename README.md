@@ -9,7 +9,7 @@ I'm currently working on thePower as Code Teacher
 * 🌍  I'm based in Madrid, Spain
 * 🖥️  See my portfolio at [https://lethamburn.vercel.app](http://lethamburn.vercel.app)
 * ✉️  You can contact me at [antoniorosalesmartinez90@gmail.com](mailto:antoniorosalesmartinez90@gmail.com)
-* ⚡  I love science fiction, comics, video games, death metal and 3D printing.
+* ⚡  I love science fiction, comics, video games, metal and 3D printing.
 
 ### Skills
 
