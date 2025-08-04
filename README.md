@@ -89,7 +89,7 @@
   <a href="https://codepen.io/lethamburn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-  <a href="antoniorosalesmartinez90@gmail.com" target="_blank">
+  <a href="mailto:antoniorosalesmartinez90@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/lethamburn/" target="_blank">
