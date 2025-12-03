@@ -69,12 +69,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lethamburn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/runkenobi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=runkenobi&count=3&unique=true" alt="Spotify recently played"  />
   </a>
