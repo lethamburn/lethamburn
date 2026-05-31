@@ -42,10 +42,14 @@ fuel:     [ Metal 🎸, Sci-fi 🚀, Comics 📚, Gaming 🎮, 3D Printing 🖨�
 
 <div align="center">
 
-<a href="https://github.com/lethamburn/starwars-databank-docs"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethamburn&repo=starwars-databank-docs&hide_border=true&bg_color=0d1117&title_color=aaaaaa&icon_color=888888&text_color=c9d1d9"/></a>
-<a href="https://github.com/lethamburn/react_jedi-fallen-order"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethamburn&repo=react_jedi-fallen-order&hide_border=true&bg_color=0d1117&title_color=aaaaaa&icon_color=888888&text_color=c9d1d9"/></a>
-<a href="https://github.com/lethamburn/react-guitartabs"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethamburn&repo=react-guitartabs&hide_border=true&bg_color=0d1117&title_color=aaaaaa&icon_color=888888&text_color=c9d1d9"/></a>
-<a href="https://github.com/lethamburn/node_videogames"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethamburn&repo=node_videogames&hide_border=true&bg_color=0d1117&title_color=aaaaaa&icon_color=888888&text_color=c9d1d9"/></a>
+<div align="center">
+
+<a href="https://github.com/lethamburn/starwars-databank-docs"><img width="49%" src="https://socialify.git.ci/lethamburn/starwars-databank-docs/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark&stargazers=1"/></a>
+<a href="https://github.com/lethamburn/node_videogames"><img width="49%" src="https://socialify.git.ci/lethamburn/node_videogames/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark&stargazers=1"/></a>
+<a href="https://github.com/lethamburn/starwars-databank-server"><img width="49%" src="https://socialify.git.ci/lethamburn/starwars-databank-server/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark&stargazers=1"/></a>
+<a href="https://github.com/lethamburn/imdb_quickplay_chrome_ext"><img width="49%" src="https://socialify.git.ci/lethamburn/imdb_quickplay_chrome_ext/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark&stargazers=1"/></a>
+
+</div>
 
 </div>
 
