@@ -69,18 +69,6 @@ fuel:     [ Metal 🎸, Sci-fi 🚀, Comics 📚, Gaming 🎮, 3D Printing 🖨�
 
 ---
 
-### `> now --playing`
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/runkenobi">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=runkenobi&count=3&unique=true" alt="Spotify recently played"/>
-</a>
-
-</div>
-
----
-
 ### `> connect --social`
 
 <div align="center">
